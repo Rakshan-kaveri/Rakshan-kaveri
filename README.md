@@ -4,7 +4,7 @@
 
 I build practical software across full-stack development, backend systems, security, machine learning, and embedded projects. I enjoy understanding how systems work end-to-end—from implementation and testing to deployment.
 
-![GitHub portfolio banner](github-readme-banner.png)
+![GitHub portfolio banner](rakshan-kumar-github-banner.png)
 
 ## 🧰 Tech Stack
 
