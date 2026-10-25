@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey, I’m Rakshan Kumar 👋
 
-<!--
-**Rakshan-kaveri/Rakshan-kaveri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Information Technology Student | Software Development | Cybersecurity & AI**
 
-Here are some ideas to get you started:
+I build practical software across full-stack development, backend systems, security, machine learning, and embedded projects. I enjoy understanding how systems work end-to-end—from implementation and testing to deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub portfolio banner](github-readme-banner.png)
+
+## 🧰 Tech Stack
+
+- **Languages:** Python, Java, C/C++, JavaScript, SQL
+- **Web & Backend:** React, Node.js, Express.js, Spring Boot, Flask
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Tools & Infrastructure:** Git, Docker, Linux, Nginx, Postman
+- **Interests:** Application security, cryptography, machine learning, embedded AI
+
+## 🚀 Featured Projects
+
+- **Private Share** — peer-to-peer file sharing with encrypted transfers.
+- **StreamVault** — self-hosted media platform with a Spring Boot backend.
+- **VoiceBit** — TinyML voice-recognition experiments on ESP32.
+- **RentNRead** — full-stack application built with the MERN stack.
+- **ML Projects** — predictive modelling and explainable-AI experiments.
+
+
+## 🤝 Connect
+
+- **LinkedIn:** [Add your LinkedIn URL](https://www.linkedin.com/in/rakshan-k-kumar/)
+- **Portfolio:** [Add your portfolio URL](https://rakshan-kaveri.github.io/)
+- **Email:** [Add your professional email](rakshankaveri@gmail.com)
+
+*Focused on building, learning, and improving through real projects.*
