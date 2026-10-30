@@ -24,7 +24,6 @@ End-to-end encrypted voice/video calls, screen sharing with audio, and file tran
 
 Live weather maps, alerts and daily reports by email and SMS.
 
-
 Full-stack weather platform: interactive map with 8 live layers (satellite, radar, wind, cyclone tracks), personal forecasts, weather alerts, and scheduled daily reports by **email and SMS in English, Kannada and Hindi**, including an SMS-only farmer mode for rural users.
 
 - Background worker (node-cron) for scheduled reports, hourly alert rules and 30-minute severe-weather checks (IMD rainfall thresholds, live GDACS cyclone feed)
