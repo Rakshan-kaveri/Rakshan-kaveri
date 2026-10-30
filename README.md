@@ -20,7 +20,10 @@ End-to-end encrypted voice/video calls, screen sharing with audio, and file tran
 
 `JavaScript` `Node.js` `WebRTC` `Web Crypto API` `WebSockets` `Docker` `Playwright`
 
-### 🌦️ [SkyCast](https://github.com/Rakshan-kaveri/weather): live weather maps & reports
+### 🌦️ [SkyCast](https://github.com/Rakshan-kaveri/weather) · [Live demo ↗](https://weather.rakzu.xyz)
+
+Live weather maps, alerts and daily reports by email and SMS.
+
 
 Full-stack weather platform: interactive map with 8 live layers (satellite, radar, wind, cyclone tracks), personal forecasts, weather alerts, and scheduled daily reports by **email and SMS in English, Kannada and Hindi**, including an SMS-only farmer mode for rural users.
 
