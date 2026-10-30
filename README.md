@@ -36,7 +36,6 @@ Full-stack weather platform: interactive map with 8 live layers (satellite, rada
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [StreamVault](https://github.com/Rakshan-kaveri/StreamVault) | Self-hosted, Netflix-style streaming platform: JWT auth with refresh-token rotation, async FFmpeg processing, HTTP Range streaming and resumable downloads | Java 21, Spring Boot, PostgreSQL, React, TypeScript, FFmpeg, Docker, Nginx |
-| [PPS Lab Codes](https://github.com/Rakshan-kaveri/PPS-LAB-CODES) | All 9 weeks of MIT Manipal's PPS lab (CSE 1181) solved, tested with `gcc -Wall -Wextra`, and organised for students | C |
 | [Hotel Management System](https://github.com/Rakshan-kaveri/Hotel-Management-System) | Desktop app for rooms, bookings, services and checkout, backed by MySQL | Java, JavaFX, JDBC, MySQL, Maven |
 
 ## 🧰 Tech stack
