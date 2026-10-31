@@ -37,7 +37,7 @@ Full-stack weather platform: interactive map with 8 live layers (satellite, rada
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [StreamVault](https://github.com/Rakshan-kaveri/StreamVault) | Self-hosted, Netflix-style streaming platform: JWT auth with refresh-token rotation, async FFmpeg processing, HTTP Range streaming and resumable downloads | Java 21, Spring Boot, PostgreSQL, React, TypeScript, FFmpeg, Docker, Nginx |
+| [StreamVault](https://github.com/Rakshan-kaveri/StreamVault) · [Live demo ↗](https://stream.rakzu.xyz) | Netflix-style streaming platform with Google sign-in; videos in Cloudflare R2 with direct browser uploads and signed-link streaming, so a free-tier VM only runs the API; admin dashboard with per-user watch history and per-video stats | Java 21, Spring Boot, PostgreSQL, React, TypeScript, Cloudflare R2, Google OAuth, FFmpeg, Docker |
 | [Hotel Management System](https://github.com/Rakshan-kaveri/Hotel-Management-System) | Desktop app for rooms, bookings, services and checkout, backed by MySQL | Java, JavaFX, JDBC, MySQL, Maven |
 
 ## 🧰 Tech stack
